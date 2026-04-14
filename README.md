@@ -4,7 +4,7 @@ A curated directory of plugins, skills, and MCP integrations for [Claude Code](h
 
 Claude Code is the most powerful agentic coding tool available. These plugins make it unstoppable.
 
-[![Plugins](https://img.shields.io/badge/Plugins-200%2B-brightgreen)](https://vinkius.com)
+[![Plugins](https://img.shields.io/badge/Plugins-340%2B-brightgreen)](https://vinkius.com)
 [![Total Available](https://img.shields.io/badge/Total_Available-2%2C600%2B-blue)](https://vinkius.com/en/categories)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
